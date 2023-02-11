@@ -1,0 +1,31 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: left;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.myName {
+  flex: 1;
+}
+
+.addPhoto {
+  flex : 1;
+  cursor:pointer;
+
+
+}
+
+.MuiButton-label {
+ background-color:#FB9C9C;
+ border-radius:2rem;
+  color:white;
+  padding:10px;
+}
+
+.MuiTypography-h5 .log {
+  cursor:pointer;
+  color:#FB9C9C;
+}
+

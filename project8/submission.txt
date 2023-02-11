@@ -1,0 +1,52 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name: 1 - Extend user profile detail with usage
+Story points: 3
+Brief description to see the story in action:
+
+Click on the name of any user on the sidebar list and their detailed page should show up with their most recently uploaded Photo
+(and a thumbnail of that photo) along with their photo that has the most comments (with a thumnbnail also showing). The most
+recently uploaded Photo has the date underneath it and the photo with the most comments has the comment count. Clicking on either of 
+these photos should take you to the photo's detail view. 
+
+
+Story number and name: 5 - Deleting Comments, Photos, and Users
+Story points: 4
+Brief description to see the story in action:
+There is a "delete" button next to any thing that the logged in user owns, such as a photo, comment, or is own user profile. 
+Deleting a photo removes it from the database and from the photo view, and deleting a comment does the same. When the user deletes his 
+own profile, the user profile is removed from the database and he is logged out. All his photos and comments on other photos are deleted as well.
+
+
+Story number and name: 6 - Photo "like" votes
+Story points: 4
+Brief description to see the story in action:
+
+Go to any user's photo and click the "Like" button. You will see the current like count showing underneath. If you unlike the photo, the like
+count will decrease by one. The application will not let you like a photo more than once. A user's photos are sorted by the number of
+likes (decreasing) and if there is a tie, sorted by the most recently uploaded photo. 
+
+
+Story number and name: 8 - Sidebar list marks users with new activity
+Story points: 3
+Brief description to see the story in action:
+Add a comment on a photo, and the latest activity description for the logged in user should update to "Just uploaded a photo" with the thumbnail of the photo.
+The latest activity description will update once a user comments on a photo, logs in, or logs out. If you register as a new user, your latest activity description will say 
+"Just registered as a new user." 
+
+
+
+Total Story Points: 14
+
+Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=qa7VMg9uNsE
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): None
+
+
